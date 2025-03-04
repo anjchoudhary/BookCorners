@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "homepage": "https://anjchoudhary.github.io/BookCorners",
+
 
   "dependencies": {
    "axios": "^1.7.9",
