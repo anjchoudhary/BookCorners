@@ -5,6 +5,10 @@ import Courses from "./courses/Courses";
 import Signup from "./Components/Signup";
 import { Toaster } from "react-hot-toast";
 import { useAuth } from "./context/AuthProvider";
+import { BrowserRouter as Router } from "react-router-dom";
+
+<Router basename="/BookCorners">
+
 
 function App() {
   const [authUser, setAuthUser] = useAuth();
