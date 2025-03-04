@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.freepik.com/free-vector/group-books-pennant_4740162.htm#fromView=search&page=1&position=6&uuid=937c2d0e-698d-47da-a933-c45569e5335e&new_detail=true"
+    },
+
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":30,
+        "category":"Entertainment",
+        "image":"https://www.freepik.com/free-vector/group-books-pennant_4740162.htm#fromView=search&page=1&position=6&uuid=937c2d0e-698d-47da-a933-c45569e5335e&new_detail=true"
+    },
+
+    {
+        "id":9,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.freepik.com/free-vector/group-books-pennant_4740162.htm#fromView=search&page=1&position=6&uuid=937c2d0e-698d-47da-a933-c45569e5335e&new_detail=true"
+    },
+
+    {
+        "id":3,
+        "name":"Sports Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":20,
+        "category":"Sports",
+        "image":"https://www.freepik.com/free-vector/group-books-pennant_4740162.htm#fromView=search&page=1&position=6&uuid=937c2d0e-698d-47da-a933-c45569e5335e&new_detail=true"
+    },
+
+    {
+        "id":10,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.freepik.com/free-vector/group-books-pennant_4740162.htm#fromView=search&page=1&position=6&uuid=937c2d0e-698d-47da-a933-c45569e5335e&new_detail=true"
+    },
+
+    {
+        "id":4,
+        "name":"Music Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":80,
+        "category":"Songs",
+        "image":"https://www.freepik.com/free-vector/group-books-pennant_4740162.htm#fromView=search&page=1&position=6&uuid=937c2d0e-698d-47da-a933-c45569e5335e&new_detail=true"
+    },
+
+    {
+        "id":5,
+        "name":"Novel Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":180,
+        "category":"Friction",
+        "image":"https://www.freepik.com/free-vector/group-books-pennant_4740162.htm#fromView=search&page=1&position=6&uuid=937c2d0e-698d-47da-a933-c45569e5335e&new_detail=true"
+    },
+
+    {
+        "id":6,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.freepik.com/free-vector/group-books-pennant_4740162.htm#fromView=search&page=1&position=6&uuid=937c2d0e-698d-47da-a933-c45569e5335e&new_detail=true"
+    },
+
+    {
+        "id":7,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.freepik.com/free-vector/group-books-pennant_4740162.htm#fromView=search&page=1&position=6&uuid=937c2d0e-698d-47da-a933-c45569e5335e&new_detail=true"
+    }
+]
